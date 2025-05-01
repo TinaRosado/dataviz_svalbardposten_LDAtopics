@@ -35,7 +35,7 @@ export default function FilterControls({
           ))}
         </select>
       </div>
-      <div>
+      {/* <div>
         <label htmlFor="cluster-filter" style={{ marginRight: 5 }}>
           Highlight Cluster:
         </label>
@@ -50,7 +50,7 @@ export default function FilterControls({
             </option>
           ))}
         </select>
-      </div>
+      </div> */}
       <button
         onClick={onReset}
         style={{
@@ -61,7 +61,7 @@ export default function FilterControls({
           cursor: "pointer",
         }}
       >
-        Reset Highlighting
+        Reset
       </button>
     </div>
   );

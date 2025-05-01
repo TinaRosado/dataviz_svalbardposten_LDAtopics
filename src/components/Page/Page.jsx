@@ -32,7 +32,7 @@ export default function Page({ data, width = 1200, height = 4000 }) {
   return (
     <div style={{ position: "relative" }}>
       <h1 className="text-2xl font-bold mb-2">
-        Svalbardposten’s Born‑Digital Archive
+        Svalbardposten’s Digital Archive
       </h1>
       <p className="text-md text-gray-600 mb-2">
         This project aims to make accessible the daily news articles published
