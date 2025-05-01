@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://tinarosado.github.com/dataviz_svalbardposten_LDAtopics/",
+  "homepage":"https://github.com/TinaRosado/dataviz_svalbardposten_LDAtopics",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
